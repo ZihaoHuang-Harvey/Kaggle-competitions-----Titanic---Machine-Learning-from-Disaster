@@ -24,6 +24,36 @@ titanic_project/
 └── README.md
 ```
 
+## 数据准备
+
+原始数据 `train.csv` 和 `test.csv` 未随仓库一起提供（Kaggle 比赛规则禁止二次分发），请自行下载：
+
+1. 访问 [Kaggle Titanic Data 页面](https://www.kaggle.com/competitions/titanic/data)
+2. 加入比赛（点击 *Join Competition*，免费）
+3. 下载 `train.csv` 和 `test.csv`，放到项目根目录的 `data/` 下：
+
+```
+titanic_project/
+└── data/
+    ├── train.csv
+    └── test.csv
+```
+
+## 数据准备
+
+原始数据 `train.csv` 和 `test.csv` 未随仓库一起提供（Kaggle 比赛规则禁止二次分发），请自行下载：
+
+1. 访问 [Kaggle Titanic Data 页面](https://www.kaggle.com/competitions/titanic/data)
+2. 加入比赛（点击 *Join Competition*，免费）
+3. 下载 `train.csv` 和 `test.csv`，放到项目根目录的 `data/` 下：
+
+```
+titanic_project/
+└── data/
+    ├── train.csv
+    └── test.csv
+```
+
 ## 环境准备
 
 ```bash

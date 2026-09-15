@@ -33,9 +33,11 @@ ENV/
 *.swp
 *.swo
 
+# 原始数据（Kaggle 数据集，按比赛规则不入 git，需自行下载）
+data/*.csv
+
 # 项目中间产物（不应进 git）
-outputs/cleaned_train.csv
-outputs/submission.csv
+outputs/
 
 # Jupyter
 .ipynb_checkpoints
