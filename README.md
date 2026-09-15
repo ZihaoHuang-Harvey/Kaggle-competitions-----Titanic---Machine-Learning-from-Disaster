@@ -101,3 +101,6 @@ python -m titanic.submission
 | RandomForest | 0.8171 | 0.7347 |
 
 最终采用 **GradientBoosting** 作为提交模型。
+最终得分：0.7751
+
+
